@@ -1,5 +1,9 @@
-# Write a code to print all the prime numbers between 1 and *n*
-
+'''
+This Python program finds and displays all prime numbers between 1 and a user-defined number n. 
+It checks each number from 2 up to n and determines whether it is a prime number.
+All prime numbers found are stored in a list and then displayed at the end.
+A prime number is a number greater than 1 that can only be divided evenly by 1 and itself.
+'''
 
 n = int(input("Enter a number : "))
 prime_numbers = []
