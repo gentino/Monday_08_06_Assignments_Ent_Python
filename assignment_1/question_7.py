@@ -1,3 +1,9 @@
+'''
+This Python program generates and displays a calendar for a specific month and year based on user input. 
+The user can enter the month either as a number (e.g., 12) or as a month name (e.g., December). 
+The program then converts the input into a valid month number and uses Python’s built-in calendar module to display the full monthly calendar.
+'''
+
 import calendar
 # MONTH MAPPING DICTIONARY
 # Maps month names (string) to their numeric representation
