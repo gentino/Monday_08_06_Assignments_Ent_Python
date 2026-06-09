@@ -1,3 +1,10 @@
+'''
+This Python program simulates a simple job application processing system. It collects applicant information (name, age, and gender), 
+filters applicants based on age requirements, 
+assigns qualified applicants to different departments based on specific rules, and then displays both the accepted and rejected applicants.
+'''
+
+
 # list to store rejected applicants
 rejected = []
 
