@@ -1,7 +1,10 @@
+'''
+This Python program generates the Fibonacci sequence up to a number of terms specified by the user. 
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, 
+starting from 0 and 1. The program stores the generated values in a list and then displays the full sequence.
+'''
 
 # FIBONACCI SEQUENCE GENERATOR
-# This program generates the first 'n' Fibonacci numbers
-
 # Ask the user how many Fibonacci numbers to generate
 count = int(input("Enter number of Fibonacci terms to generate: "))
 
