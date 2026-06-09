@@ -1,3 +1,10 @@
+'''
+This Python program collects five numbers from the user, stores them in a list, 
+calculates their total sum, and then computes the mean (average). 
+Finally, it displays the result as a message.
+'''
+
+
 count = 1 
 numbers = []
 # Input five numbers
