@@ -1,5 +1,13 @@
-import calendar
+'''
+This Python program generates and displays multiple monthly calendars for a selected range of months within a given year.
+The user enters a year, a starting month, and an ending month.
+The program then converts the month inputs (whether written as names or numbers) into numeric values 
+and prints each month's calendar in order using Python’s built-in calendar module.
 
+'''
+
+
+import calendar
 year = int(input("Enter a year (e.g 2026)").strip())
 
 start_month = input('Enter the start month (eg. 6 or June)').strip() 
